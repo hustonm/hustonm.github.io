@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am (as of Fall 2023) starting as a postdoc in the Moving Universe Lab at UC Berkeley Astronomy. In the Summer of 2023, I completed my PhD in Astronomy & Astrophysics at Penn State. My current research is focused on gravitational microlensing, and in particular, the search for stellar mass black holes in the Milky Way. My past research topics have been: microlensing searches for exoplanets, star and brown dwarf formation, and the search for technosignatures (or SETI).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+For a full list of my peer-reviewed publications, see my ADS library.
