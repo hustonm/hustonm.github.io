@@ -3,7 +3,7 @@ permalink: /writing/
 title: "Writing"
 ---
 
-I am a former Astrobites author and an occasional freelance astronomy news writer.
+I was an Astrobites author during grad school and am now an occasional freelance astronomy news writer.
 
 My work can be found here:
 
