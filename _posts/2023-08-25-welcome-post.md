@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my new website!"
-date: 2023-08-25T15:34:30-04:00
+date: 2023-08-25T00:00:00-00:00
 categories:
   - blog
 tags:
