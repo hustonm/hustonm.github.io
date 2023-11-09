@@ -62,11 +62,14 @@ author:
   avatar : "/assets/images/Asset0009.jpg"
   bio    : "Astronomer"
   links:
+    - label: "mhuston@berkeley.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mhuston@berkeley.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/macyjhuston"
     - label: "Bluesky"
-      icon: "fab fa-solid fa-cloud"
+      icon: "fas fa-fw fa-cloud"
       url: "https://bsky.app/profile/mhuston.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,12 +77,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/macyjhuston"
-    - label: "Bluesky"
-      icon: "fab fa-solid fa-cloud"
-      url: "https://bsky.app/profile/mhuston.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hustonm"
