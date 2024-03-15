@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am (as of Fall 2023) a postdoc in the <a href="https://jluastro.atlassian.net/wiki/spaces/MULab/overview">Moving Universe Lab</a> at UC Berkeley Astronomy. In the Summer of 2023, I completed my PhD in Astronomy & Astrophysics at Penn State. My current research is focused on gravitational microlensing, and in particular, the search for stellar mass black holes in the Milky Way. My past research topics have been: microlensing searches for exoplanets, star and brown dwarf formation, and the search for technosignatures (or SETI).
+I am (as of Fall 2023) a postdoc in the <a href="https://jluastro.atlassian.net/wiki/spaces/MULab/overview">Moving Universe Lab</a> at UC Berkeley. In the Summer of 2023, I completed my PhD in Astronomy & Astrophysics at Penn State. My current research is focused on gravitational microlensing, and in particular, the search for stellar mass black holes in the Milky Way. My past research topics have been: microlensing searches for exoplanets, star and brown dwarf formation, and the search for technosignatures (or SETI).
 
 ### Current Projects
 - Astrometric follow up of long-timescale microlensing events to search for stellar mass black holes in the Milky Way (paper in progress)
