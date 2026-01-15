@@ -3,7 +3,7 @@ permalink: /scicomm/
 title: "Science Communication"
 ---
 
-In addition to doing science, I really enjoy writing and speaking about my work and other happenings in astronomy. Here are some links to talks and articles that I have available onling.
+In addition to doing research, I really enjoy writing and speaking about my work and other happenings in astronomy. Here are some links to talks and articles that I have available online.
 
 Public talks:
 
