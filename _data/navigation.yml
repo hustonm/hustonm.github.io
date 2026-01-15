@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Writing"
-    url: /writing/
+  - title: "Science Communication"
+    url: /scicomm/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
