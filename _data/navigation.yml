@@ -1,9 +1,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Science Communication"
+  - title: "SciComm"
     url: /scicomm/
-  - title: "Space Crafts"
+  - title: "Crafts"
     url: /crafts/
   - title: "Posts"
     url: /posts/
