@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Science Communication"
     url: /scicomm/
+  - title: "Space Crafts"
+    url: /crafts/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
