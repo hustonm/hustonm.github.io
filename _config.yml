@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Macy Huston, PhD
+title: Mace Huston, PhD
 email: mhuston@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Astronomer Macy Huston's professional website
+  Astronomer Mace Huston's professional website
 github_username: hustonm
 minimal_mistakes_skin: default
 search: true
@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Macy Huston"
+  name   : "Mace Huston"
   avatar : "/assets/images/Asset0009.jpg"
   bio    : "Astronomer"
   links:
